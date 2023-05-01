@@ -38,7 +38,7 @@
   "dependencies": {
     "@vue/reactivity": "^3.2.45",
     "@vue/shared": "^3.2.45",
-    "@vueuse/core": "^9.10.0",
+    "@vueuse/core": "^10.1.0",
     "element-plus": "^2.2.28"
   }
 }
